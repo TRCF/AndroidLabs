@@ -6,4 +6,6 @@
     <string name="switch_text">Switch on/off</string>
     <string name="press_this">PRESS ME</string>
     <string name="checkbox_text">Check this out!</string>
+    <string name="toast_message">Label has been updated.</string>
+    <string name="snackbar_text">The checkbox is now </string>
 </resources>

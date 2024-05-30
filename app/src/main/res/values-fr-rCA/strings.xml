@@ -2,9 +2,10 @@
 <resources>
     <string name="hello_world">Bonjour le monde</string>
     <string name="button_text">Je suis un bouton!</string>
-    <string name="android_love"></string>
+    <string name="android_love">J\'adore Android</string>
     <string name="switch_text"></string>
     <string name="press_this"></string>
     <string name="checkbox_text"></string>
-
+    <string name="toast_message"></string>
+    <string name="snackbar_text"></string>
 </resources>
