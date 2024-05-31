@@ -3,9 +3,11 @@
     <string name="hello_world">Bonjour le monde</string>
     <string name="button_text">Je suis un bouton!</string>
     <string name="android_love">J\'adore Android</string>
-    <string name="switch_text"></string>
-    <string name="press_this"></string>
-    <string name="checkbox_text"></string>
-    <string name="toast_message"></string>
-    <string name="snackbar_text"></string>
+    <string name="switch_text">Allumer / éteindre</string>
+    <string name="press_this">APPUYEZ-MOI</string>
+    <string name="checkbox_text">Regarde ça!</string>
+    <string name="toast_message">L\'étiquette a été mise à jour.</string>
+    <string name="snackbar_text">La case à cocher est maintenant</string>
+    <string name="turnedOn">sur</string>
+    <string name="turnedOff">désactivé</string>
 </resources>

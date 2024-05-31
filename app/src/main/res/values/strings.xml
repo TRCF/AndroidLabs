@@ -8,4 +8,6 @@
     <string name="checkbox_text">Check this out!</string>
     <string name="toast_message">Label has been updated.</string>
     <string name="snackbar_text">The checkbox is now </string>
+    <string name="turnedOn">on</string>
+    <string name="turnedOff">off</string>
 </resources>
